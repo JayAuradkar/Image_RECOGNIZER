@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(80, 77, 226);
+}
+#Image_Recognition{
+     background-color: royalblue;
+     text-transform: uppercase;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Model{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
